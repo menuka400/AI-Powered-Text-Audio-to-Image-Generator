@@ -8,12 +8,11 @@ Transform your words and voice into stunning AI-generated images! This project u
 - 🏛️ **History Tracking**: View past generations with a clear history feature.
 - 🔄 **Smooth Animations**: Engaging UI with modern animations.
 
-
-![Diagram Description](path/to/diagram.png)
-
-
 ## 📸 Preview
 ![App Screenshot](assets/images/screenshot.png)
+
+![System Architecture](assets/images/system_architecture.png)
+
 
 ## 📦 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript

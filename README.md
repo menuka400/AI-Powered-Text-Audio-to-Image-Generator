@@ -13,8 +13,6 @@ Transform your words and voice into stunning AI-generated images! This project u
 
 ![System Architecture](https://github.com/user-attachments/assets/92dead17-dd78-4f8d-9143-46f559f0e7c6)
 
-
-
 ## 📦 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python (Google Colab)

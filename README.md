@@ -16,7 +16,7 @@ Transform your words and voice into stunning AI-generated images! This project u
 ## 📦 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python (Google Colab)
-- **AI Model**: Whisper AI(large)
+- **AI Model**: Whisper AI (large)
 - **Libraries Used**:
   - [lamejs](https://github.com/zhuker/lamejs) (MP3 Encoding)
   - Font Awesome (Icons)

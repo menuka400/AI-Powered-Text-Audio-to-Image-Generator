@@ -9,7 +9,7 @@ Transform your words and voice into stunning AI-generated images! This project u
 - 🔄 **Smooth Animations**: Engaging UI with modern animations.
 
 ## 📸 Preview
-![App Screenshot](assets/images/screenshot.png)
+![FrontEnd Screenshot](https://github.com/user-attachments/assets/a08bad03-3f40-4ce3-bda9-8b702725a4f7)
 
 ![System Architecture](https://github.com/user-attachments/assets/92dead17-dd78-4f8d-9143-46f559f0e7c6)
 

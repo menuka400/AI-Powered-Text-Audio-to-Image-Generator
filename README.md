@@ -58,3 +58,4 @@ MIT License
 
 Made with ❤️ by **M.H. Jayasuriya**
 
+🌟 **Star this repository if you found it useful!** 🌟

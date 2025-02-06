@@ -12,7 +12,6 @@ Transform your words and voice into stunning AI-generated images! This project u
 ![App Screenshot](assets/images/screenshot.png)
 
 ![System Architecture](assets/images/system_archi![1](https://github.com/user-attachments/assets/dbce8614-e409-4bd7-88c2-77d4c2a79485)
-tecture.png)
 
 
 ## 📦 Tech Stack
